@@ -1,0 +1,4 @@
+{
+  "name": "lepton-labs-multiplayer",
+  "main": "./src/server.ts"
+}
